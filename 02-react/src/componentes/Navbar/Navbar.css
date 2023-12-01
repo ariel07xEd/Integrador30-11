@@ -1,0 +1,35 @@
+.navbar {
+    display: flex;
+    padding: 20px;
+    text-transform: uppercase;
+    font-size: 1.4rem;
+    color: #102130;
+    font-weight: 550;
+}
+
+.titulo-p {
+}
+
+.nav-container {
+    text-align: none;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+.nav-list {
+}
+
+.navbar-ul {
+    display: flex;
+}
+
+.nav-li {
+    list-style: none;
+    margin: 10px;
+}
+
+.li.nav-li {
+    text-decoration: none;
+}
